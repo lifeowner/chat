@@ -1,0 +1,10 @@
+*.DS_Store
+Chatchat.xcodeproj/project.xcworkspace/xcuserdata/
+Chatchat.xcodeproj/xcuserdata/
+Server/node_modules/
+Podfile.lock
+Chatchat.xcworkspace/
+Pods/
+*/.DS_Store
+Chatchat/.DS_Store
+
